@@ -1,0 +1,14 @@
+        foo:
+        beginfunc
+        x =  popparam
+        t0 = 5
+        t1 = t0*x
+        y = t1
+        return y
+        endfunc
+        main:
+        beginfunc
+        t2 = 4
+        a = t2
+        b = 
+        endfunc
